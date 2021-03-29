@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-<!--
+<a href="https://www.kia.com/kr/main.html" target="_blank"><img src="https://img.shields.io/badge/KIA-05141f?style=flat-square&logo=Kia&logoColor=white"/></a>
+
 **yoonjibin/yoonjibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
