@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100022326424982" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 **yoonjibin/yoonjibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
