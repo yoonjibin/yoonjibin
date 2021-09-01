@@ -9,7 +9,4 @@ Here are some ideas to get you started:
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=yoonjibin&show_icons=true&hide_border=true&count_private=true)](https://github.com/yoonjibin)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235F84ED&title_bg=%23555555&icon=bentley.svg&icon_color=%23E7E7E7&title=MP&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 
